@@ -1,9 +1,9 @@
 # ClimateWins Unsupervised Machine Learning Analysis
 
-### ClimateWins is interested in using machine learning to help predict the consequences of climate change around Europe and, potentially, the world. This project includes determining which areas can use machine learning, looking at data that already includes answers so that machine learning can be trained to recognize similar answers (supervised learning), and communicating what was found and how it will affect ClimateWins’ strategy.
+### ClimateWins is interested in using machine learning to help predict the consequences of climate change around Europe and, potentially, the world. This project includes determining how unsupervised and deep learning algorithms could be used to aid in ClimateWins' mission.
 ### My deliverable for this assessment of tools is a [Powerpoint Presentation](ML2Pres.pdf).
 ## Objective
-#### Determine how machine learning might be used to achieve ClimateWins' Goals
+#### Determine how machine learning might be used to achieve ClimateWins' Goals:
 ##### 1. Identify weather patterns outside the regional norm in Europe.
 ##### 2. Determine if unusual weather patterns are increasing.
 ##### 3. Generate possibilities for future weather conditions over the next 25 to 50 years based on current trends.
@@ -17,4 +17,4 @@
 ## Tools
 #### I performed my analysis using Python in Jupyter Notebooks. Algorithms I used for this analysis include Hierarchical Clustering (Dendrograms), Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), Long Short-Term Memory (LSTM), Random Forests, and Generative Adversarial Networks (GANs). 
 ## Resources
-#### This project is part of my curriculum for the Career Foundry Data Analytics Bootcamp. The project brief for this independent study can be found [here]([https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Project%20Briefs/Machine-Learning-with-Python-Achievement-1-Project%20Brief.pdf]).
+#### This project is part of my curriculum for the Career Foundry Data Analytics Bootcamp. The project brief for this independent study can be found [here](https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Project%20Briefs/Machine-Learning-with-Python-Achievement-1-Project%20Brief.pdf).
